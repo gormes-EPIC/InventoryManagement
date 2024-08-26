@@ -61,7 +61,7 @@
 - Provide the full source code with appropriate comments.
 
 
-### Rurbic:**
+### Rurbic:
 
 *Course Content*
 
